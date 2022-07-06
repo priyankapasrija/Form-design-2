@@ -1,0 +1,23 @@
+[33mcommit b447db5dcfe4a2de16b0095c520cba209716e590[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Priyanka Pasrija <priyankapasrija2@gmail.com>
+Date:   Wed May 4 14:02:38 2022 +0200
+
+    updated test.txt
+
+[33mcommit f531653687d9503e56fdc2c2869e593b481c6167[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Priyanka Pasrija <priyankapasrija2@gmail.com>
+Date:   Wed May 4 13:48:20 2022 +0200
+
+    added new feature
+
+[33mcommit 88be3a0653176ecab71ece425369a826cf705bf4[m
+Author: Priyanka Pasrija <priyankapasrija2@gmail.com>
+Date:   Tue May 3 19:34:36 2022 +0200
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit 7357ca9a3dc91bbf620f42312c5c948b71b2ff39[m
+Author: Priyanka Pasrija <priyankapasrija2.@gmail.com>
+Date:   Tue May 3 16:39:04 2022 +0200
+
+    added test.txt file
